@@ -1,0 +1,7 @@
+__pycache__/
+.coverage
+coverage_html/
+.venv/
+*.bat
+HUONG_DAN_CHAY.md
+_git_output.txt
